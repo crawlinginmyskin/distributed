@@ -13,4 +13,4 @@ python3 client.py <path/to/plik>
 ```
 klient wysyla plik na port 9000 gdzie znajduje sie load balancer
 
-server_sftp i klient_sftp dzialaja z tym ssh z pracy (lepiej nie uzywac)
+server_sftp i klient_sftp dzialaja na serwerze ssh 
